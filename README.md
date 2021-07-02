@@ -7,7 +7,7 @@ Program to help ROK R4 to analyse statistics of their members.
 - step 2 : download the last release of OCROK
 
 ## Use it :
-- step 1 : screenshot all detailed information of your members (sorry, this is still manual task), like this one :
+- step 1 : screenshot all detailed information of your members (sorry, this is still a manual task), like this one :
 ![alt text](https://raw.githubusercontent.com/lysm-rok/OCROK/main/pictures/screen1.jpg)
 - step 2 : put all the files in the same fodler
 - run the program and follow the instructions
@@ -18,7 +18,7 @@ Beceause I spent too much time scrolling in the game and handtyping in excel to 
 
 ## What is in the box?
 Technically speaking : 
-- It uses tessereact software
+- It uses tesseract software
 - There is a powershell wrapper / parser packaged in a .exe file
 - there is a tiny .datatabase.rok file created at the first run. It is used to improved the analysis for the next runs.
 
