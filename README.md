@@ -20,6 +20,6 @@ Beceause I spent too much time scrolling in the game and handtyping in excel to 
 Technically speaking : 
 - It uses tesseract software
 - There is a powershell wrapper / parser packaged in a .exe file
-- there is a tiny .datatabase.rok file created at the first run. It is used to improved the analysis for the next runs.
+- there is a tiny .database.rok file created at the first run. It is used to improved the analysis for the next runs.
 
 /!\ please note that I am not a programmer, there are hundreds of better way to program it, but it seems to work for me. 
