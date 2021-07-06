@@ -13,8 +13,8 @@ Program to help ROK R4 to analyse statistics of their members.
 - run the program and follow the instructions
 - it will (should) create a csv file, with all information of the screens
 
-As I used the https://github.com/MScholtes/PS2EXE tool to create the executable file (which is more user friendly), it might raise an wrong antivirus alert.. 
-I'll commit the script itself soon so you can read / execute it directly.
+As I use the https://github.com/MScholtes/PS2EXE tool to create the executable file (which is more user friendly), it might raise an wrong antivirus alert.. 
+I commited the script itself, so you can choose to execute it directly from a powershell console.
 
 ## Why?
 Beceause I spent too much time scrolling in the game and handtyping in excel to attributes kvk rewards to best players. 
