@@ -7,6 +7,7 @@ Program to help ROK R4 to analyse statistics of their members.
 - step 2 : download the last release of OCROK
 
 ## Use it :
+- step 0 : your game must be in english
 - step 1 : screenshot all detailed information of your members (sorry, this is still a manual task), like this one :
 ![alt text](https://raw.githubusercontent.com/lysm-rok/OCROK/main/pictures/screen1.jpg)
 - step 2 : put all the files in the same fodler
